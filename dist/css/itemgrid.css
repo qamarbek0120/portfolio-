@@ -1,0 +1,9 @@
+.items {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 2rem;
+  box-shadow: 0 5px 20px 0 rgba(90, 90, 90, 0.897);
+  padding: 1rem; }
+
+.item {
+  position: relative; }
